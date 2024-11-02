@@ -18,12 +18,11 @@ export const metadata: Metadata = {
 
 export default async function LocaleLayout({
                                                children,
-                                               params
+                                               params: {locate}
                                            }: Readonly<{
     children: React.ReactNode;
     params: { locate: string }
 }>) {
-    const {locate} = await params;
     if (!routing.locales.includes(locate as any)) {
         notFound();
     }
