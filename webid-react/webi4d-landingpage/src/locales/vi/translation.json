@@ -90,9 +90,9 @@
   "mostPopular": "\uD83D\uDD25 Phổ biến nhất",
   "basicPrice": "700.000đ/tháng",
   "professionalVersion": "Gói chuyên nghiệp",
-  "professionalPrice": "10,740,000/ 6tháng",
+  "professionalPrice": "10,740,000/6tháng",
   "enterpriseVersion": "Gói doanh nghiệp",
-  "enterprisePrice": "31,560,000/ 1tháng",
+  "enterprisePrice": "31,560,000/1tháng",
   "downloadAppNow": "Tải App PK4ID ngay",
   "downloadAppNowSub": "Ứng dụng PK4ID giúp bạn quản lý doanh nghiệp mọi lúc mọi nơi",
   "scanQRCode": "Quét mã QR để tải ứng dụng",
@@ -100,7 +100,11 @@
   "contactAddress": "Địa chỉ liên hệ",
   "company": "Công ty TNHH PK4ID",
   "subSlogan": "Quản lý của hàng một cách dễ dàng hơn cùng trải nghiệm tốt nhất bắt đầu từ bây giờ",
-  "email": "Email",
-    "phone": "Điện thoại",
-    "address": "Địa chỉ"
+  "email": "Email: ",
+  "emailContent": "phuckhanggem@gmail.com",
+  "phone": "Điện thoại: ",
+  "phoneContent": "0938178938 | 0939619111",
+  "phoneToCallDirect": "0938178938",
+  "address": "Địa chỉ: ",
+  "addressContent": "D2 Đường 5B HimLam, P. Tân Hưng, Quận 7, TP. Hồ Chí Minh"
 }
